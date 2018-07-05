@@ -1,0 +1,63 @@
+﻿  main.cpp
+  ofApp.cpp
+  ofxSMWSM.cpp
+c:\creative\openframeworks\of_v0.10.0_vs2017_release\apps\myapps\microwaveserial2osc\src\ofxsmwsm.h : warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。 (ソース ファイルをコンパイルしています src\ofxSMWSM.cpp)
+c:\creative\openframeworks\of_v0.10.0_vs2017_release\libs\openframeworks\math\ofvec3f.h : warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。 (ソース ファイルをコンパイルしています src\ofApp.cpp)
+c:\creative\openframeworks\of_v0.10.0_vs2017_release\libs\openframeworks\math\ofvec2f.h : warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。 (ソース ファイルをコンパイルしています src\ofApp.cpp)
+c:\creative\openframeworks\of_v0.10.0_vs2017_release\libs\openframeworks\math\ofvec3f.h : warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。 (ソース ファイルをコンパイルしています src\ofxSMWSM.cpp)
+c:\creative\openframeworks\of_v0.10.0_vs2017_release\libs\openframeworks\math\ofvec2f.h : warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。 (ソース ファイルをコンパイルしています src\ofxSMWSM.cpp)
+c:\creative\openframeworks\of_v0.10.0_vs2017_release\libs\openframeworks\math\ofvec3f.h : warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。 (ソース ファイルをコンパイルしています src\main.cpp)
+c:\creative\openframeworks\of_v0.10.0_vs2017_release\libs\openframeworks\math\ofvec2f.h : warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。 (ソース ファイルをコンパイルしています src\main.cpp)
+c:\creative\openframeworks\of_v0.10.0_vs2017_release\libs\openframeworks\math\ofmatrix4x4.h(326): warning C4267: '引数': 'size_t' から 'int' に変換しました。データが失われているかもしれません。 (ソース ファイルをコンパイルしています src\ofApp.cpp)
+c:\creative\openframeworks\of_v0.10.0_vs2017_release\libs\openframeworks\math\ofmatrix4x4.h(331): warning C4267: '引数': 'size_t' から 'int' に変換しました。データが失われているかもしれません。 (ソース ファイルをコンパイルしています src\ofApp.cpp)
+c:\creative\openframeworks\of_v0.10.0_vs2017_release\libs\openframeworks\math\ofmatrix4x4.h(912): warning C4267: '引数': 'size_t' から 'int' に変換しました。データが失われているかもしれません。 (ソース ファイルをコンパイルしています src\ofApp.cpp)
+c:\creative\openframeworks\of_v0.10.0_vs2017_release\libs\openframeworks\math\ofmatrix4x4.h(913): warning C4267: '引数': 'size_t' から 'int' に変換しました。データが失われているかもしれません。 (ソース ファイルをコンパイルしています src\ofApp.cpp)
+c:\creative\openframeworks\of_v0.10.0_vs2017_release\libs\openframeworks\math\ofmatrix4x4.h(914): warning C4267: '引数': 'size_t' から 'int' に変換しました。データが失われているかもしれません。 (ソース ファイルをコンパイルしています src\ofApp.cpp)
+c:\creative\openframeworks\of_v0.10.0_vs2017_release\libs\openframeworks\math\ofmatrix4x4.h(915): warning C4267: '引数': 'size_t' から 'int' に変換しました。データが失われているかもしれません。 (ソース ファイルをコンパイルしています src\ofApp.cpp)
+c:\creative\openframeworks\of_v0.10.0_vs2017_release\libs\openframeworks\math\ofmatrix4x4.h(326): warning C4267: '引数': 'size_t' から 'int' に変換しました。データが失われているかもしれません。 (ソース ファイルをコンパイルしています src\ofxSMWSM.cpp)
+c:\creative\openframeworks\of_v0.10.0_vs2017_release\libs\openframeworks\math\ofmatrix4x4.h(331): warning C4267: '引数': 'size_t' から 'int' に変換しました。データが失われているかもしれません。 (ソース ファイルをコンパイルしています src\ofxSMWSM.cpp)
+c:\creative\openframeworks\of_v0.10.0_vs2017_release\libs\openframeworks\math\ofmatrix4x4.h(912): warning C4267: '引数': 'size_t' から 'int' に変換しました。データが失われているかもしれません。 (ソース ファイルをコンパイルしています src\ofxSMWSM.cpp)
+c:\creative\openframeworks\of_v0.10.0_vs2017_release\libs\openframeworks\math\ofmatrix4x4.h(913): warning C4267: '引数': 'size_t' から 'int' に変換しました。データが失われているかもしれません。 (ソース ファイルをコンパイルしています src\ofxSMWSM.cpp)
+c:\creative\openframeworks\of_v0.10.0_vs2017_release\libs\openframeworks\math\ofmatrix4x4.h(914): warning C4267: '引数': 'size_t' から 'int' に変換しました。データが失われているかもしれません。 (ソース ファイルをコンパイルしています src\ofxSMWSM.cpp)
+c:\creative\openframeworks\of_v0.10.0_vs2017_release\libs\openframeworks\math\ofmatrix4x4.h(915): warning C4267: '引数': 'size_t' から 'int' に変換しました。データが失われているかもしれません。 (ソース ファイルをコンパイルしています src\ofxSMWSM.cpp)
+c:\creative\openframeworks\of_v0.10.0_vs2017_release\libs\openframeworks\math\ofmatrix4x4.h(326): warning C4267: '引数': 'size_t' から 'int' に変換しました。データが失われているかもしれません。 (ソース ファイルをコンパイルしています src\main.cpp)
+c:\creative\openframeworks\of_v0.10.0_vs2017_release\libs\openframeworks\math\ofmatrix4x4.h(331): warning C4267: '引数': 'size_t' から 'int' に変換しました。データが失われているかもしれません。 (ソース ファイルをコンパイルしています src\main.cpp)
+c:\creative\openframeworks\of_v0.10.0_vs2017_release\libs\openframeworks\math\ofmatrix4x4.h(912): warning C4267: '引数': 'size_t' から 'int' に変換しました。データが失われているかもしれません。 (ソース ファイルをコンパイルしています src\main.cpp)
+c:\creative\openframeworks\of_v0.10.0_vs2017_release\libs\openframeworks\math\ofmatrix4x4.h(913): warning C4267: '引数': 'size_t' から 'int' に変換しました。データが失われているかもしれません。 (ソース ファイルをコンパイルしています src\main.cpp)
+c:\creative\openframeworks\of_v0.10.0_vs2017_release\libs\openframeworks\math\ofmatrix4x4.h(914): warning C4267: '引数': 'size_t' から 'int' に変換しました。データが失われているかもしれません。 (ソース ファイルをコンパイルしています src\main.cpp)
+c:\creative\openframeworks\of_v0.10.0_vs2017_release\libs\openframeworks\math\ofmatrix4x4.h(915): warning C4267: '引数': 'size_t' から 'int' に変換しました。データが失われているかもしれません。 (ソース ファイルをコンパイルしています src\main.cpp)
+c:\creative\openframeworks\of_v0.10.0_vs2017_release\apps\myapps\microwaveserial2osc\src\ofxsmwsm.h : warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。 (ソース ファイルをコンパイルしています src\ofApp.cpp)
+c:\creative\openframeworks\of_v0.10.0_vs2017_release\apps\myapps\microwaveserial2osc\src\ofxsmwsm.cpp(13): warning C4309: '初期化中': 定数値が切り捨てられました。
+c:\creative\openframeworks\of_v0.10.0_vs2017_release\apps\myapps\microwaveserial2osc\src\ofxsmwsm.h : warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。 (ソース ファイルをコンパイルしています src\main.cpp)
+ofxOscBundle.obj : error LNK2038: '_ITERATOR_DEBUG_LEVEL' の不一致が検出されました。値 '0' が 2 の値 'main.obj' と一致しません。
+ofxOscBundle.obj : error LNK2038: 'RuntimeLibrary' の不一致が検出されました。値 'MD_DynamicRelease' が MDd_DynamicDebug の値 'main.obj' と一致しません。
+ofxOscMessage.obj : error LNK2038: '_ITERATOR_DEBUG_LEVEL' の不一致が検出されました。値 '0' が 2 の値 'main.obj' と一致しません。
+ofxOscMessage.obj : error LNK2038: 'RuntimeLibrary' の不一致が検出されました。値 'MD_DynamicRelease' が MDd_DynamicDebug の値 'main.obj' と一致しません。
+ofxOscParameterSync.obj : error LNK2038: '_ITERATOR_DEBUG_LEVEL' の不一致が検出されました。値 '0' が 2 の値 'main.obj' と一致しません。
+ofxOscParameterSync.obj : error LNK2038: 'RuntimeLibrary' の不一致が検出されました。値 'MD_DynamicRelease' が MDd_DynamicDebug の値 'main.obj' と一致しません。
+ofxOscReceiver.obj : error LNK2038: '_ITERATOR_DEBUG_LEVEL' の不一致が検出されました。値 '0' が 2 の値 'main.obj' と一致しません。
+ofxOscReceiver.obj : error LNK2038: 'RuntimeLibrary' の不一致が検出されました。値 'MD_DynamicRelease' が MDd_DynamicDebug の値 'main.obj' と一致しません。
+ofxOscSender.obj : error LNK2038: '_ITERATOR_DEBUG_LEVEL' の不一致が検出されました。値 '0' が 2 の値 'main.obj' と一致しません。
+ofxOscSender.obj : error LNK2038: 'RuntimeLibrary' の不一致が検出されました。値 'MD_DynamicRelease' が MDd_DynamicDebug の値 'main.obj' と一致しません。
+IpEndpointName.obj : error LNK2038: '_ITERATOR_DEBUG_LEVEL' の不一致が検出されました。値 '0' が 2 の値 'main.obj' と一致しません。
+IpEndpointName.obj : error LNK2038: 'RuntimeLibrary' の不一致が検出されました。値 'MD_DynamicRelease' が MDd_DynamicDebug の値 'main.obj' と一致しません。
+NetworkingUtils.obj : error LNK2038: '_ITERATOR_DEBUG_LEVEL' の不一致が検出されました。値 '0' が 2 の値 'main.obj' と一致しません。
+NetworkingUtils.obj : error LNK2038: 'RuntimeLibrary' の不一致が検出されました。値 'MD_DynamicRelease' が MDd_DynamicDebug の値 'main.obj' と一致しません。
+UdpSocket.obj : error LNK2038: '_ITERATOR_DEBUG_LEVEL' の不一致が検出されました。値 '0' が 2 の値 'main.obj' と一致しません。
+UdpSocket.obj : error LNK2038: 'RuntimeLibrary' の不一致が検出されました。値 'MD_DynamicRelease' が MDd_DynamicDebug の値 'main.obj' と一致しません。
+OscOutboundPacketStream.obj : error LNK2038: '_ITERATOR_DEBUG_LEVEL' の不一致が検出されました。値 '0' が 2 の値 'main.obj' と一致しません。
+OscOutboundPacketStream.obj : error LNK2038: 'RuntimeLibrary' の不一致が検出されました。値 'MD_DynamicRelease' が MDd_DynamicDebug の値 'main.obj' と一致しません。
+OscPrintReceivedElements.obj : error LNK2038: '_ITERATOR_DEBUG_LEVEL' の不一致が検出されました。値 '0' が 2 の値 'main.obj' と一致しません。
+OscPrintReceivedElements.obj : error LNK2038: 'RuntimeLibrary' の不一致が検出されました。値 'MD_DynamicRelease' が MDd_DynamicDebug の値 'main.obj' と一致しません。
+OscReceivedElements.obj : error LNK2038: '_ITERATOR_DEBUG_LEVEL' の不一致が検出されました。値 '0' が 2 の値 'main.obj' と一致しません。
+OscReceivedElements.obj : error LNK2038: 'RuntimeLibrary' の不一致が検出されました。値 'MD_DynamicRelease' が MDd_DynamicDebug の値 'main.obj' と一致しません。
+ofxXmlSettings.obj : error LNK2038: '_ITERATOR_DEBUG_LEVEL' の不一致が検出されました。値 '0' が 2 の値 'main.obj' と一致しません。
+ofxXmlSettings.obj : error LNK2038: 'RuntimeLibrary' の不一致が検出されました。値 'MD_DynamicRelease' が MDd_DynamicDebug の値 'main.obj' と一致しません。
+tinyxml.obj : error LNK2038: '_ITERATOR_DEBUG_LEVEL' の不一致が検出されました。値 '0' が 2 の値 'main.obj' と一致しません。
+tinyxml.obj : error LNK2038: 'RuntimeLibrary' の不一致が検出されました。値 'MD_DynamicRelease' が MDd_DynamicDebug の値 'main.obj' と一致しません。
+tinyxmlerror.obj : error LNK2038: '_ITERATOR_DEBUG_LEVEL' の不一致が検出されました。値 '0' が 2 の値 'main.obj' と一致しません。
+tinyxmlerror.obj : error LNK2038: 'RuntimeLibrary' の不一致が検出されました。値 'MD_DynamicRelease' が MDd_DynamicDebug の値 'main.obj' と一致しません。
+tinyxmlparser.obj : error LNK2038: '_ITERATOR_DEBUG_LEVEL' の不一致が検出されました。値 '0' が 2 の値 'main.obj' と一致しません。
+tinyxmlparser.obj : error LNK2038: 'RuntimeLibrary' の不一致が検出されました。値 'MD_DynamicRelease' が MDd_DynamicDebug の値 'main.obj' と一致しません。
+     ライブラリ bin\MicroWaveSerial2OSC_debug.lib とオブジェクト bin\MicroWaveSerial2OSC_debug.exp を作成中
+bin\MicroWaveSerial2OSC_debug.exe : fatal error LNK1319: 30 の不一致が検出されました

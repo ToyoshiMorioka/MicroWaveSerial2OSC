@@ -1,0 +1,107 @@
+﻿  main.cpp
+  ofApp.cpp
+  ofxSMWSM.cpp
+c:\creative\openframeworks\of_v0.10.0_vs2017_release\apps\myapps\microwaveserial2osc\src\ofxsmwsm.h : warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。 (ソース ファイルをコンパイルしています src\ofxSMWSM.cpp)
+c:\creative\openframeworks\of_v0.10.0_vs2017_release\libs\openframeworks\math\ofvec3f.h : warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。 (ソース ファイルをコンパイルしています src\ofxSMWSM.cpp)
+c:\creative\openframeworks\of_v0.10.0_vs2017_release\libs\openframeworks\math\ofvec2f.h : warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。 (ソース ファイルをコンパイルしています src\ofxSMWSM.cpp)
+c:\creative\openframeworks\of_v0.10.0_vs2017_release\libs\openframeworks\math\ofvec3f.h : warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。 (ソース ファイルをコンパイルしています src\main.cpp)
+c:\creative\openframeworks\of_v0.10.0_vs2017_release\libs\openframeworks\math\ofvec2f.h : warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。 (ソース ファイルをコンパイルしています src\main.cpp)
+c:\creative\openframeworks\of_v0.10.0_vs2017_release\libs\openframeworks\math\ofvec3f.h : warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。 (ソース ファイルをコンパイルしています src\ofApp.cpp)
+c:\creative\openframeworks\of_v0.10.0_vs2017_release\libs\openframeworks\math\ofvec2f.h : warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。 (ソース ファイルをコンパイルしています src\ofApp.cpp)
+c:\creative\openframeworks\of_v0.10.0_vs2017_release\libs\openframeworks\math\ofmatrix4x4.h(326): warning C4267: '引数': 'size_t' から 'int' に変換しました。データが失われているかもしれません。 (ソース ファイルをコンパイルしています src\ofxSMWSM.cpp)
+c:\creative\openframeworks\of_v0.10.0_vs2017_release\libs\openframeworks\math\ofmatrix4x4.h(331): warning C4267: '引数': 'size_t' から 'int' に変換しました。データが失われているかもしれません。 (ソース ファイルをコンパイルしています src\ofxSMWSM.cpp)
+c:\creative\openframeworks\of_v0.10.0_vs2017_release\libs\openframeworks\math\ofmatrix4x4.h(912): warning C4267: '引数': 'size_t' から 'int' に変換しました。データが失われているかもしれません。 (ソース ファイルをコンパイルしています src\ofxSMWSM.cpp)
+c:\creative\openframeworks\of_v0.10.0_vs2017_release\libs\openframeworks\math\ofmatrix4x4.h(913): warning C4267: '引数': 'size_t' から 'int' に変換しました。データが失われているかもしれません。 (ソース ファイルをコンパイルしています src\ofxSMWSM.cpp)
+c:\creative\openframeworks\of_v0.10.0_vs2017_release\libs\openframeworks\math\ofmatrix4x4.h(914): warning C4267: '引数': 'size_t' から 'int' に変換しました。データが失われているかもしれません。 (ソース ファイルをコンパイルしています src\ofxSMWSM.cpp)
+c:\creative\openframeworks\of_v0.10.0_vs2017_release\libs\openframeworks\math\ofmatrix4x4.h(915): warning C4267: '引数': 'size_t' から 'int' に変換しました。データが失われているかもしれません。 (ソース ファイルをコンパイルしています src\ofxSMWSM.cpp)
+c:\creative\openframeworks\of_v0.10.0_vs2017_release\libs\openframeworks\math\ofmatrix4x4.h(326): warning C4267: '引数': 'size_t' から 'int' に変換しました。データが失われているかもしれません。 (ソース ファイルをコンパイルしています src\main.cpp)
+c:\creative\openframeworks\of_v0.10.0_vs2017_release\libs\openframeworks\math\ofmatrix4x4.h(331): warning C4267: '引数': 'size_t' から 'int' に変換しました。データが失われているかもしれません。 (ソース ファイルをコンパイルしています src\main.cpp)
+c:\creative\openframeworks\of_v0.10.0_vs2017_release\libs\openframeworks\math\ofmatrix4x4.h(912): warning C4267: '引数': 'size_t' から 'int' に変換しました。データが失われているかもしれません。 (ソース ファイルをコンパイルしています src\main.cpp)
+c:\creative\openframeworks\of_v0.10.0_vs2017_release\libs\openframeworks\math\ofmatrix4x4.h(913): warning C4267: '引数': 'size_t' から 'int' に変換しました。データが失われているかもしれません。 (ソース ファイルをコンパイルしています src\main.cpp)
+c:\creative\openframeworks\of_v0.10.0_vs2017_release\libs\openframeworks\math\ofmatrix4x4.h(914): warning C4267: '引数': 'size_t' から 'int' に変換しました。データが失われているかもしれません。 (ソース ファイルをコンパイルしています src\main.cpp)
+c:\creative\openframeworks\of_v0.10.0_vs2017_release\libs\openframeworks\math\ofmatrix4x4.h(915): warning C4267: '引数': 'size_t' から 'int' に変換しました。データが失われているかもしれません。 (ソース ファイルをコンパイルしています src\main.cpp)
+c:\creative\openframeworks\of_v0.10.0_vs2017_release\libs\openframeworks\math\ofmatrix4x4.h(326): warning C4267: '引数': 'size_t' から 'int' に変換しました。データが失われているかもしれません。 (ソース ファイルをコンパイルしています src\ofApp.cpp)
+c:\creative\openframeworks\of_v0.10.0_vs2017_release\libs\openframeworks\math\ofmatrix4x4.h(331): warning C4267: '引数': 'size_t' から 'int' に変換しました。データが失われているかもしれません。 (ソース ファイルをコンパイルしています src\ofApp.cpp)
+c:\creative\openframeworks\of_v0.10.0_vs2017_release\libs\openframeworks\math\ofmatrix4x4.h(912): warning C4267: '引数': 'size_t' から 'int' に変換しました。データが失われているかもしれません。 (ソース ファイルをコンパイルしています src\ofApp.cpp)
+c:\creative\openframeworks\of_v0.10.0_vs2017_release\libs\openframeworks\math\ofmatrix4x4.h(913): warning C4267: '引数': 'size_t' から 'int' に変換しました。データが失われているかもしれません。 (ソース ファイルをコンパイルしています src\ofApp.cpp)
+c:\creative\openframeworks\of_v0.10.0_vs2017_release\libs\openframeworks\math\ofmatrix4x4.h(914): warning C4267: '引数': 'size_t' から 'int' に変換しました。データが失われているかもしれません。 (ソース ファイルをコンパイルしています src\ofApp.cpp)
+c:\creative\openframeworks\of_v0.10.0_vs2017_release\libs\openframeworks\math\ofmatrix4x4.h(915): warning C4267: '引数': 'size_t' から 'int' に変換しました。データが失われているかもしれません。 (ソース ファイルをコンパイルしています src\ofApp.cpp)
+c:\creative\openframeworks\of_v0.10.0_vs2017_release\apps\myapps\microwaveserial2osc\src\ofxsmwsm.cpp(13): warning C4309: '初期化中': 定数値が切り捨てられました。
+c:\creative\openframeworks\of_v0.10.0_vs2017_release\apps\myapps\microwaveserial2osc\src\ofxsmwsm.h : warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。 (ソース ファイルをコンパイルしています src\ofApp.cpp)
+c:\creative\openframeworks\of_v0.10.0_vs2017_release\apps\myapps\microwaveserial2osc\src\ofxsmwsm.h : warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。 (ソース ファイルをコンパイルしています src\main.cpp)
+  ofxOscBundle.cpp
+  ofxOscMessage.cpp
+  ofxOscParameterSync.cpp
+  ofxOscReceiver.cpp
+  ofxOscSender.cpp
+c:\creative\openframeworks\of_v0.10.0_vs2017_release\addons\ofxosc\src\ofxoscbundle.cpp(48): warning C4267: 'return': 'size_t' から 'int' に変換しました。データが失われているかもしれません。
+c:\creative\openframeworks\of_v0.10.0_vs2017_release\addons\ofxosc\src\ofxoscbundle.cpp(53): warning C4267: 'return': 'size_t' から 'int' に変換しました。データが失われているかもしれません。
+c:\creative\openframeworks\of_v0.10.0_vs2017_release\libs\openframeworks\math\ofvec3f.h : warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。 (ソース ファイルをコンパイルしています ..\..\..\addons\ofxOsc\src\ofxOscParameterSync.cpp)
+c:\creative\openframeworks\of_v0.10.0_vs2017_release\libs\openframeworks\math\ofvec3f.h : warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。 (ソース ファイルをコンパイルしています ..\..\..\addons\ofxOsc\src\ofxOscReceiver.cpp)
+c:\creative\openframeworks\of_v0.10.0_vs2017_release\libs\openframeworks\math\ofvec2f.h : warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。 (ソース ファイルをコンパイルしています ..\..\..\addons\ofxOsc\src\ofxOscParameterSync.cpp)
+c:\creative\openframeworks\of_v0.10.0_vs2017_release\libs\openframeworks\math\ofvec2f.h : warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。 (ソース ファイルをコンパイルしています ..\..\..\addons\ofxOsc\src\ofxOscReceiver.cpp)
+c:\creative\openframeworks\of_v0.10.0_vs2017_release\libs\openframeworks\math\ofvec3f.h : warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。 (ソース ファイルをコンパイルしています ..\..\..\addons\ofxOsc\src\ofxOscSender.cpp)
+c:\creative\openframeworks\of_v0.10.0_vs2017_release\libs\openframeworks\math\ofvec2f.h : warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。 (ソース ファイルをコンパイルしています ..\..\..\addons\ofxOsc\src\ofxOscSender.cpp)
+  IpEndpointName.cpp
+c:\creative\openframeworks\of_v0.10.0_vs2017_release\addons\ofxosc\libs\oscpack\src\ip\ipendpointname.cpp(54): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1774): note: 'sprintf' の宣言を確認してください
+c:\creative\openframeworks\of_v0.10.0_vs2017_release\addons\ofxosc\libs\oscpack\src\ip\ipendpointname.cpp(56): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1774): note: 'sprintf' の宣言を確認してください
+c:\creative\openframeworks\of_v0.10.0_vs2017_release\addons\ofxosc\libs\oscpack\src\ip\ipendpointname.cpp(69): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1774): note: 'sprintf' の宣言を確認してください
+c:\creative\openframeworks\of_v0.10.0_vs2017_release\addons\ofxosc\libs\oscpack\src\ip\ipendpointname.cpp(71): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1774): note: 'sprintf' の宣言を確認してください
+c:\creative\openframeworks\of_v0.10.0_vs2017_release\addons\ofxosc\libs\oscpack\src\ip\ipendpointname.cpp(79): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1774): note: 'sprintf' の宣言を確認してください
+c:\creative\openframeworks\of_v0.10.0_vs2017_release\addons\ofxosc\libs\oscpack\src\ip\ipendpointname.cpp(81): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1774): note: 'sprintf' の宣言を確認してください
+  NetworkingUtils.cpp
+  UdpSocket.cpp
+c:\creative\openframeworks\of_v0.10.0_vs2017_release\addons\ofxosc\libs\oscpack\src\ip\win32\networkingutils.cpp(88): warning C4996: 'gethostbyname': Use getaddrinfo() or GetAddrInfoW() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\um\winsock2.h(2218): note: 'gethostbyname' の宣言を確認してください
+  OscOutboundPacketStream.cpp
+  OscPrintReceivedElements.cpp
+  OscReceivedElements.cpp
+  OscTypes.cpp
+c:\creative\openframeworks\of_v0.10.0_vs2017_release\addons\ofxosc\libs\oscpack\src\osc\oscoutboundpacketstream.cpp(363): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\string.h(133): note: 'strcpy' の宣言を確認してください
+c:\creative\openframeworks\of_v0.10.0_vs2017_release\addons\ofxosc\libs\oscpack\src\osc\oscoutboundpacketstream.cpp(605): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\string.h(133): note: 'strcpy' の宣言を確認してください
+c:\creative\openframeworks\of_v0.10.0_vs2017_release\addons\ofxosc\libs\oscpack\src\osc\oscoutboundpacketstream.cpp(625): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\string.h(133): note: 'strcpy' の宣言を確認してください
+c:\creative\openframeworks\of_v0.10.0_vs2017_release\addons\ofxosc\libs\oscpack\src\osc\oscprintreceivedelements.cpp(129): warning C4996: 'ctime': This function or variable may be unsafe. Consider using ctime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\time.h(476): note: 'ctime' の宣言を確認してください
+  ofxXmlSettings.cpp
+c:\creative\openframeworks\of_v0.10.0_vs2017_release\libs\openframeworks\math\ofvec3f.h : warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+c:\creative\openframeworks\of_v0.10.0_vs2017_release\libs\openframeworks\math\ofvec2f.h : warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+c:\creative\openframeworks\of_v0.10.0_vs2017_release\libs\openframeworks\math\ofmatrix4x4.h(326): warning C4267: '引数': 'size_t' から 'int' に変換しました。データが失われているかもしれません。
+c:\creative\openframeworks\of_v0.10.0_vs2017_release\libs\openframeworks\math\ofmatrix4x4.h(331): warning C4267: '引数': 'size_t' から 'int' に変換しました。データが失われているかもしれません。
+c:\creative\openframeworks\of_v0.10.0_vs2017_release\libs\openframeworks\math\ofmatrix4x4.h(912): warning C4267: '引数': 'size_t' から 'int' に変換しました。データが失われているかもしれません。
+c:\creative\openframeworks\of_v0.10.0_vs2017_release\libs\openframeworks\math\ofmatrix4x4.h(913): warning C4267: '引数': 'size_t' から 'int' に変換しました。データが失われているかもしれません。
+c:\creative\openframeworks\of_v0.10.0_vs2017_release\libs\openframeworks\math\ofmatrix4x4.h(914): warning C4267: '引数': 'size_t' から 'int' に変換しました。データが失われているかもしれません。
+c:\creative\openframeworks\of_v0.10.0_vs2017_release\libs\openframeworks\math\ofmatrix4x4.h(915): warning C4267: '引数': 'size_t' から 'int' に変換しました。データが失われているかもしれません。
+c:\creative\openframeworks\of_v0.10.0_vs2017_release\addons\ofxxmlsettings\src\ofxxmlsettings.cpp(202): warning C4267: '初期化中': 'size_t' から 'int' に変換しました。データが失われているかもしれません。
+c:\creative\openframeworks\of_v0.10.0_vs2017_release\addons\ofxxmlsettings\src\ofxxmlsettings.cpp(282): warning C4267: '初期化中': 'size_t' から 'int' に変換しました。データが失われているかもしれません。
+c:\creative\openframeworks\of_v0.10.0_vs2017_release\addons\ofxxmlsettings\src\ofxxmlsettings.cpp(575): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1774): note: 'sprintf' の宣言を確認してください
+c:\creative\openframeworks\of_v0.10.0_vs2017_release\addons\ofxxmlsettings\src\ofxxmlsettings.cpp(583): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1774): note: 'sprintf' の宣言を確認してください
+c:\creative\openframeworks\of_v0.10.0_vs2017_release\addons\ofxxmlsettings\src\ofxxmlsettings.cpp(672): warning C4267: '初期化中': 'size_t' から 'int' に変換しました。データが失われているかもしれません。
+  tinyxml.cpp
+  tinyxmlerror.cpp
+  tinyxmlparser.cpp
+     ライブラリ bin\MicroWaveSerial2OSC.lib とオブジェクト bin\MicroWaveSerial2OSC.exp を作成中
+  LINK : /LTCG が指定されましたが、コードの生成は必要ありません。リンク コマンド ラインから /LTCG を削除し、リンカーの性能を改善してください。
+  MicroWaveSerial2OSC.vcxproj -> C:\Creative\openFrameworks\of_v0.10.0_vs2017_release\apps\myApps\MicroWaveSerial2OSC\bin\MicroWaveSerial2OSC.exe
+  
+  	                   2	C:\Creative\openFrameworks\of_v0.10.0_vs2017_release\libs\fmodex\lib\vs\x64\
+  	  *EXTRA File 		 1266176	C:\Creative\openFrameworks\of_v0.10.0_vs2017_release\apps\myApps\MicroWaveSerial2OSC\bin\fmodex.dll
+  	  *EXTRA File 		 1312768	C:\Creative\openFrameworks\of_v0.10.0_vs2017_release\apps\myApps\MicroWaveSerial2OSC\bin\fmodexL.dll
+  	  *EXTRA File 		 5647872	C:\Creative\openFrameworks\of_v0.10.0_vs2017_release\apps\myApps\MicroWaveSerial2OSC\bin\FreeImage.dll
+  
+  	                   1	C:\Creative\openFrameworks\of_v0.10.0_vs2017_release\libs\FreeImage\lib\vs\x64\
+  	  *EXTRA File 		 1266176	C:\Creative\openFrameworks\of_v0.10.0_vs2017_release\apps\myApps\MicroWaveSerial2OSC\bin\fmodex.dll
+  	  *EXTRA File 		 1503232	C:\Creative\openFrameworks\of_v0.10.0_vs2017_release\apps\myApps\MicroWaveSerial2OSC\bin\fmodex64.dll
+  	  *EXTRA File 		 1312768	C:\Creative\openFrameworks\of_v0.10.0_vs2017_release\apps\myApps\MicroWaveSerial2OSC\bin\fmodexL.dll
+  	  *EXTRA File 		 1552384	C:\Creative\openFrameworks\of_v0.10.0_vs2017_release\apps\myApps\MicroWaveSerial2OSC\bin\fmodexL64.dll
+  	        新しい		 6402560	C:\Creative\openFrameworks\of_v0.10.0_vs2017_release\libs\FreeImage\lib\vs\x64\FreeImage.dll
